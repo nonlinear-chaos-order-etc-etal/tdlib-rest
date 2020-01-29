@@ -1,0 +1,25 @@
+// edit this file and save this file as tdjson_local.h
+
+#pragma once
+
+#define LOCAL_CHAT_ID_STR "123"
+#define LOCAL_API_ID_STR "123"
+#define LOCAL_API_HASH_STR "abcdef"
+
+// IETF language tag of the user's operating system language; must be non-empty. 
+// https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1tdlib_parameters.html#a6d8a2faa45d34d30147819fc504e37a7
+#define LOCAL_LANG_CODE "en"
+
+#define LOCAL_DB_ENCRYPTION_KEY_STR "put-some-random-secret-string-here"
+
+#define LOCAL_BOT_TOKEN_STR "put-bot-token-here"
+
+#define LOCAL_SOCKS5_HOSTNAME_STR "example.org"
+
+#define LOCAL_SOCKS5_PORT_STR "11111"
+
+#define LOCAL_SOCKS5_USERNAME_STR "someusername"
+
+#define LOCAL_SOCKS5_PASSWORD_STR "put-password-here"
+
+#define LOCAL_BOT_USER_ID_STR "12345678"

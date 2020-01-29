@@ -1,1 +1,16 @@
 tdenv_local.sh
+tdjson_local.h
+*.sqlite*
+*.binlog
+documents
+music
+passport
+photos
+profile_photos
+secret
+secret_thumbnails
+stickers
+animations
+build
+td
+log

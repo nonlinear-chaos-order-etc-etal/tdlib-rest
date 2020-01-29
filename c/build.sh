@@ -1,6 +1,8 @@
-echo "building td..."
+# based on https://github.com/tdlib/td/tree/master/example/cpp instructions.
 
 . ./tdenv_local.sh
+
+echo "building td..."
 
 pushd $tdhome
 
@@ -16,3 +18,4 @@ popd
 
 echo "building td done."
 
+echo "now run . ./build-examples.sh"
