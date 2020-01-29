@@ -1,4 +1,4 @@
-# edit this and save this to tdenv_local.sh
+# edit this file and save this file to tdenv_local.sh
 # tdenv_local.sh
 
 export tdhome="../../td/"
