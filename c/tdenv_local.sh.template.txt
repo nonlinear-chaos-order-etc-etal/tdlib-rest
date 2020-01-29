@@ -1,0 +1,3 @@
+# tdenv.sh
+
+export tdhome="../../td/"

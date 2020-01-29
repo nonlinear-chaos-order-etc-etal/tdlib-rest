@@ -1,5 +1,7 @@
 #pragma once
 
+// this file was taken from https://core.telegram.org/tdlib/docs/td__json__client_8h_source.html
+
 #include "td/telegram/tdjson_export.h"
 
 #ifdef __cplusplus
